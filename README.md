@@ -18,11 +18,11 @@ Welcome to our project repository! Here you can find information about our aweso
 - **GitHub**: Indrek2003
 - **Bio**: Tax free service, Tourism, Finance, IT.
 
-### 3. 
-- **Role**: Frontend Developer
-- **Email**: charlie@example.com
-- **GitHub**: [charlie-brown](https://github.com/charlie-brown)
-- **Bio**: Charlie is the frontend developer who creates amazing user interfaces and experiences.
+### 3. Aleksandra Dolgopolova
+- **Role**: Contributor
+- **Email**: dolgopolova.a@gmail.com
+- **GitHub**: DearAleks
+- **Bio**: Student in the WoTech reskilling program. Background in musicology, civil service
 
 ### 4. 
 - **Role**: UX/UI Designer
