@@ -12,11 +12,11 @@ Welcome to our project repository! Here you can find information about our aweso
 - **GitHub**: aprise11
 - **Bio**: Education in Service Industry, experience in Tourism, Travel and Accommodation, but for the last years transferring all my knowledge to IT
 
-### 2.
-- **Role**: Lead Developer
-- **Email**: bob@example.com
-- **GitHub**: [bob-johnson](https://github.com/bob-johnson)
-- **Bio**: Bob is our lead developer specializing in backend systems and API development.
+### 2. Inna Jõeorg
+- **Role**: Contributer
+- **Email**: ijoeorg@globalblue.com
+- **GitHub**: Indrek2003
+- **Bio**: Tax free service, Tourism, Finance, IT.
 
 ### 3. 
 - **Role**: Frontend Developer
