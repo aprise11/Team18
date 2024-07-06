@@ -24,11 +24,11 @@ Welcome to our project repository! Here you can find information about our aweso
 - **GitHub**: DearAleks
 - **Bio**: Student in the WoTech reskilling program. Background in musicology, civil service
 
-### 4. 
-- **Role**: UX/UI Designer
-- **Email**: dana@example.com
-- **GitHub**: [dana-white](https://github.com/dana-white)
-- **Bio**: Dana is our UX/UI designer, making sure our projects are user-friendly and visually appealing.
+### 4. Ieva Krīgere
+- **Role**: Contributor
+- **Email**: ieva.krigere@gmail.com
+- **GitHub**: ieva-krigere
+- **Bio**: Maths, climate change
 
 ## Contact Us
 Feel free to reach out to any of us if you have any questions or need further information about the project.
