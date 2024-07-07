@@ -14,19 +14,19 @@ Welcome to our project repository! Here you can find information about our aweso
 
 ### 2. Inna Jõeorg
 - **Role**: Contributer
-- **Email**: ijoeorg@globalblue.com
+- **Email**: 📧 ijoeorg@globalblue.com
 - **GitHub**: Indrek2003
 - **Bio**: Tax free service, Tourism, Finance, IT.
 
 ### 3. Aleksandra Dolgopolova
 - **Role**: Contributor
-- **Email**: dolgopolova.a@gmail.com
+- **Email**: 📧 dolgopolova.a@gmail.com
 - **GitHub**: DearAleks
 - **Bio**: Student in the WoTech reskilling program. Background in musicology, civil service
 
 ### 4. Ieva Krīgere
 - **Role**: Contributor
-- **Email**: ieva.krigere@gmail.com
+- **Email**: 📧 ieva.krigere@gmail.com
 - **GitHub**: ieva-krigere
 - **Bio**: Maths, climate change
 
