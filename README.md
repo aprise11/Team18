@@ -28,7 +28,7 @@ Welcome to our project repository! Here you can find information about our aweso
 - **Role**: Contributor
 - **Email**: 📧 ieva.krigere@gmail.com
 - **GitHub**: ieva-krigere
-- **Bio**: Maths, climate change
+- **Bio**: Maths, climate change, civil service, WoTech reskilling program
 
 ## Contact Us
 Feel free to reach out to any of us if you have any questions or need further information about the project.
