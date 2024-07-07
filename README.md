@@ -7,8 +7,8 @@ Welcome to our project repository! Here you can find information about our aweso
 ## Team Members
 
 ### 1. Agneta Prise
-- **Role**: Team Lead
-- **Email**: agnetasilta@gmail.com
+- **Role**: Team Lead - for a while
+- **Email**: 📧 agnetasilta@gmail.com
 - **GitHub**: aprise11
 - **Bio**: Education in Service Industry, experience in Tourism, Travel and Accommodation, but for the last years transferring all my knowledge to IT
 
